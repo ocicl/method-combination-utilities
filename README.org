@@ -1,0 +1,10 @@
+* method-combination-utilities
+
+Various utilities to make use and creation of custom method combinations easier.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sellout/method-combination-utilities.git   |
+| commit  | 9abd3ff  |
+| systems | method-combination-utilities |
+|---------+-------------------------------------------|
+
